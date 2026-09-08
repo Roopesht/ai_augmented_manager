@@ -1,0 +1,14 @@
+{
+  "project": {
+    "id": "PROJ-001",
+    "name": "New Project",
+    "description": "",
+    "updated_at": "2026-09-06T05:30:54.922Z",
+    "_local_changes": false
+  },
+  "changeRequests": [],
+  "decisions": [],
+  "requirements": [],
+  "workItems": [],
+  "tests": []
+}
